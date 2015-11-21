@@ -1,0 +1,9 @@
+Host github-key1
+HostName github.com
+IdentityFile /home/jgottlieb/.ssh/key1
+User key1
+
+Host github-key2
+HostName github.com
+IdentityFile /home/jgottlieb/.ssh/key2
+User key2
